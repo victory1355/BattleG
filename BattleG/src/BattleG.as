@@ -776,7 +776,6 @@ package  {
 			
 			camera.render(stage3D);
 			
-			//			sprite.frame++;
 		}
 		
 		
