@@ -761,7 +761,6 @@ package  {
 			//			
 			//			camera.stopTimer();
 			////			
-			//////		    trace("after moving character(x,y,z)"+"x = "+character.x+" y = "+character.y+" z = "+character.z);
 			////			
 			//			_sphere.x = destination.x;
 			//			_sphere.y = destination.y;
