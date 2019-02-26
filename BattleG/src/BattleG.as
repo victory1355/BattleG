@@ -458,7 +458,7 @@ package  {
 			stage3D.addEventListener(Event.CONTEXT3D_CREATE, init);
 			stage3D.requestContext3D(Context3DRenderMode.SOFTWARE);
 			
-			
+			trace("aa");
 			
 			
 			
