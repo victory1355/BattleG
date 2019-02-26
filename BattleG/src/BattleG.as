@@ -681,14 +681,6 @@ package  {
 		
 		//		private function on_Key_Down(e:KeyboardEvent):void {
 		//			//target = (e.target as Object3D).localToGlobal(new Vector3D(e.localX, e.localY, e.localZ));
-		//			character.x -=10; 
-		//		}
-		//		
-		//		
-		//		private function on_Key_Up(e:KeyboardEvent):void {
-		//			
-		//			//target = (e.target as Object3D).localToGlobal(new Vector3D(e.localX, e.localY, e.localZ));
-		//			character.x +=10;
 		//		}
 		
 		
