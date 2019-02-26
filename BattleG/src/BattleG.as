@@ -103,7 +103,6 @@ package  {
 			
 		}
 		
-		//		private var rand:Array = [0,-1,1];
 		
 		
 		private function onHeartbeat( event:TimerEvent ):void 
